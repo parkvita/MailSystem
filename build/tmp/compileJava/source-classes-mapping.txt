@@ -1,0 +1,9 @@
+com/parkvita/mailsystem/Application.java
+ com.parkvita.mailsystem.Application
+com/parkvita/mailsystem/service/mail/MailService.java
+ com.parkvita.mailsystem.service.mail.MailService
+com/parkvita/mailsystem/web/dto/MailDto.java
+ com.parkvita.mailsystem.web.dto.MailDto
+ com.parkvita.mailsystem.web.dto.MailDto$MailDtoBuilder
+com/parkvita/mailsystem/web/MailController.java
+ com.parkvita.mailsystem.web.MailController
